@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="loop_on">#1DB954</color>   <!-- green -->
+    <color name="loop_off">#FFFFFF</color> <!-- white -->
+    <color name="seekbar_active">#24a3a3</color>     <!-- green 3ec2c2 -->
+    <color name="seekbar_inactive">#4F4a5757</color>   <!-- dark grey 3d4242 -->
+    <color name="seekbar_thumb">#FFFFFF</color>      <!-- teal 0c7575 -->
+    <color name="seekbar_track">#1DB954</color>
+</resources>

@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "144085205186",
+    "project_id": "whistle-d23fd",
+    "storage_bucket": "whistle-d23fd.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:144085205186:android:99277ec1900ccd48153b5b",
+        "android_client_info": {
+          "package_name": "com.example.sound"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDxMPV9p5pSDaoWYWkCebwCdGmCTgWOIiM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
